@@ -1,7 +1,7 @@
 Code repository for paper:
 Chuan Hu, Huiping Cao: Discovering Time-evolving Influence from Dynamic Heterogeneous Graphs, 2015 IEEE International Conference on Big Data (IEEE BigData 2015) the first Interna- tional Workshop on Mining Big Data in Social Networks (MBD-SONET).
 
-Data link: TODO
+Data link: ask for download link. Chuan Hu: chuanhu90@gmail.com
 
 Data format: please refer to https://github.com/hannahcao/nmsu_cs_chu_sdm2014
 

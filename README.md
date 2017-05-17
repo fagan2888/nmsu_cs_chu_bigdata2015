@@ -3,8 +3,6 @@ Chuan Hu, Huiping Cao: Discovering Time-evolving Influence from Dynamic Heteroge
 
 Data link: ask for download link. Chuan Hu: chuanhu90@gmail.com
 
-Data format: please refer to https://github.com/hannahcao/nmsu_cs_chu_sdm2014
-
 Command usage:
 java -cp infdetection.jar sampling.MainInfDetection 
 -model <model: oaim, laim or cim> 
